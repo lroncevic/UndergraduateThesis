@@ -7,6 +7,10 @@
 - [LCD](https://github.com/e-radionicacom/Soldered-16x2-LCD-Arduino-Library)
 - [LMP91000](https://github.com/LinnesLab/LMP91000)
 
+## Testing
+
+Demonstration video of testing: https://onedrive.live.com/?authkey=%21AHKIvF7ZItzoZgg&cid=BE4F8A693170B1F8&id=BE4F8A693170B1F8%21114&parId=BE4F8A693170B1F8%21111&o=OneUp 
+
 ## Pictures
 
 ![PCB1](https://user-images.githubusercontent.com/90208069/213932598-b972a81e-73a7-4b83-a92b-9b6feeec6b16.jpeg)
